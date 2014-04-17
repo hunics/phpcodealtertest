@@ -22,6 +22,7 @@
 
 			?>   
 			<!---Comment in HTML Comment style
+			    beleirtam valamit	
 			    ¿¿  ~ {}[]^``'@@·~#$%&'|°¬<<>
 			balablabla
 			blablabla...
