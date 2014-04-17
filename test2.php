@@ -1,6 +1,6 @@
 <?php
 session_start();
-//echo "EEER";
+//echo "EEERis";
 $unVar = array();
 $unVar["uno"] = 10;
 $unVar["due"] = "ketto";
